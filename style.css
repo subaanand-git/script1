@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+th h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+tr td{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+.btn{
+    font-weight: 500;
+}
+.btn:hover{
+    background-color: blue;
+}
